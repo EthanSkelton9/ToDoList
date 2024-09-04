@@ -1,3 +1,2 @@
-print("hello wolrd")
+print("no more world")
 
-print("world")
